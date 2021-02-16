@@ -5,3 +5,12 @@ url: "https://ffahrenb.github.io"
 markdown: kramdown
 highlighter: rouge
 theme: jekyll-theme-minimal
+
+
+navbar:
+  title: "Florian Fahrenbach"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
