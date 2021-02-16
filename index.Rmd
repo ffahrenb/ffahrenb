@@ -1,5 +1,34 @@
 ---
-title: "My Website"
+title: "Florian Fahrenbach"
+image: "flo.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/ffahrenb"
+  - label: Twitter
+    url: "https://twitter.com/ffahrenb"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ffahrenb/"
+output:
+  postcards::trestles
 ---
     
-Hello, Website! Welcome to the world.
+
+
+## Bio
+
+
+Florian is a postdoctoral researcher at the Institute for Data, Process and Knowledge Management at the Vienna University of Economics and Business (WU Vienna). He teaches bachelor courses in the Process and Knowledge Management specialization (SBWL) on Knowledge-based Management and Organizational Learning. Broadly speaking, his research interests are located in the intersection of information systems research and vocational education and training.
+
+His doctoral research (under the supervision of Prof. Alexander Kaiser) at WU Vienna employed the design science research methodology to develop an assessment system for professional competences with the goal to support the validation of prior formal, non-formal and informal learning in the Austrian Skilled Crafts and Trades sector. Florian was awarded a doctorate degree (with honors) at WU Vienna in September 2020.
+
+Prior to his doctoral research, Florian obtained a Master’s degree from MEi:CogSci, a full-time English taught highly research-driven interdisciplinary joint master program in Cognitive Science at the University of Vienna and Medical University of Vienna and a bachelor degree in psychology from the University of Vienna. During his studies, Florian was a visiting researcher at the Federal University of Rio de Janeiro (Brazil) and University of Ljubljana (Slovenia). Before enrolling to university he spend one year volunteering in a boarding school in India. Outside academia he likes skiing and climbing.
+
+
+
+## Research
+
+
+**[Papers](https://scholar.google.de/citations?hl=en&user=L1OzFcwAAAAJ)** | Some papers I helped to write
+
+**[University Webpage](https://www.wu.ac.at/en/kbm/members/fahrenbach)** | Webpage at Vienna University of Economics and Business
+
