@@ -1,0 +1,13 @@
+name: "Florian Fahrenbach"
+markdown: kramdown
+navbar:
+  title: "Personal Homepage of Florian Fahrenbach"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<florian.fahrenbach@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/ffahrenb/
+output: html_document
