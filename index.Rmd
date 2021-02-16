@@ -28,7 +28,6 @@ His doctoral research (under the supervision of Prof. Alexander Kaiser) at WU Vi
 Prior to his doctoral research, Florian obtained a Master’s degree from MEi:CogSci, a full-time English taught highly research-driven interdisciplinary joint master program in Cognitive Science at the University of Vienna and Medical University of Vienna and a bachelor degree in psychology from the University of Vienna. During his studies, Florian was a visiting researcher at the Federal University of Rio de Janeiro (Brazil) and University of Ljubljana (Slovenia). Before enrolling to university he spend one year volunteering in a boarding school in India. Outside academia he likes skiing and climbing.
 
 
-
 ## Research
 
 
@@ -36,4 +35,5 @@ Prior to his doctoral research, Florian obtained a Master’s degree from MEi:Co
 
 **[University Webpage](https://www.wu.ac.at/en/kbm/members/fahrenbach)** | Webpage at Vienna University of Economics and Business
 
-**[University Webpage](https://www.wu.ac.at/en/kbm/members/fahrenbach)** | Webpage at Vienna University of Economics and Business
+**[Current Courses](https://vvz.wu.ac.at/cgi-bin/vvz.pl?C=S&LANG=DE&U=H&S=21S&LV=3&L2=S&L3=S&T=&L=Fahrenbach&I=&JOIN=AND)** | Courses at the Vienna University of Economics and Business
+
