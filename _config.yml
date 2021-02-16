@@ -1,1 +1,7 @@
+#Jekyll Configuration
+name: Florian Fahrenbach
+description: Personal Homepage
+url: "https://ffahrenb.github.io"
+markdown: kramdown
+highlighter: rouge
 theme: jekyll-theme-minimal
