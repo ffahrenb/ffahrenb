@@ -2,6 +2,8 @@
 title: "Florian Fahrenbach"
 image: "flo.jpg"
 links:
+  - label: Mail
+    url: "florian.fahrenbach@gmail.com"
   - label: GitHub
     url: "https://github.com/ffahrenb"
   - label: Twitter
