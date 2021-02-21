@@ -10,6 +10,8 @@ links:
     url: "https://twitter.com/ffahrenb"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ffahrenb/"
+  - label: Calendly
+    url: "https://www.calendly.com/ffahrenb/"
 output:
   postcards::trestles
   
@@ -28,12 +30,42 @@ His doctoral research (under the supervision of Prof. Alexander Kaiser) at WU Vi
 Prior to his doctoral research, Florian obtained a Master’s degree from MEi:CogSci, a full-time English taught highly research-driven interdisciplinary joint master program in Cognitive Science at the University of Vienna and Medical University of Vienna and a bachelor degree in psychology from the University of Vienna. During his studies, Florian was a visiting researcher at the Federal University of Rio de Janeiro (Brazil) and University of Ljubljana (Slovenia). Before enrolling to university he spend one year volunteering in a boarding school in India. Outside academia he likes skiing and climbing.
 
 
+**[CV](https://drive.google.com/file/d/1OU-yiObCuP3-cvCBDxErmLIvj_Eh9mdu/view?usp=sharing)** | Curriculum Vitae
+
+**[University Webpage](https://www.wu.ac.at/en/kbm/members/fahrenbach)** | Webpage at Vienna University of Economics and Business
+
+
+
 ## Research
+
+
+**[Academic Research](https://drive.google.com/file/d/1S38ZM13hTZ-mwBkx4stRZAzKItJQm-DB/view?usp=sharing)** | Contributions to academic research
 
 
 **[Papers](https://scholar.google.de/citations?hl=en&user=L1OzFcwAAAAJ)** | Some papers I helped to write
 
-**[University Webpage](https://www.wu.ac.at/en/kbm/members/fahrenbach)** | Webpage at Vienna University of Economics and Business
+
+**[Research Gate](https://www.researchgate.net/profile/Florian-Fahrenbach)** | Profile on ResearchGate
+
+**[Orcid](https://orcid.org/0000-0002-4889-5283)** | Orcid ID
+
+
+
+
+## Teaching
+
+
+**[Teaching and Supervision ](https://drive.google.com/file/d/1HZ-IUhh7oHpiJedAg0r_o4a5oV02F2CF/view?usp=sharing)** | Experience in academic teaching and supervision
+
 
 **[Current Courses](https://vvz.wu.ac.at/cgi-bin/vvz.pl?C=S&LANG=DE&U=H&S=21S&LV=3&L2=S&L3=S&T=&L=Fahrenbach&I=&JOIN=AND)** | Courses at the Vienna University of Economics and Business
+
+## Consulting
+
+**[Consultancy Experience](https://drive.google.com/file/d/1Vs4GtKnYgMbK2xeOe3gbo2HIepkdkrHu/view?usp=sharing)** | Experience in Consulting projects
+
+
+
+
+
 
